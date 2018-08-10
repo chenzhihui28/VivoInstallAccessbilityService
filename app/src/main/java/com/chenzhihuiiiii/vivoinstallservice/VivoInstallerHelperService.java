@@ -107,6 +107,7 @@ public class VivoInstallerHelperService extends AccessibilityService {
 
         for (AccessibilityNodeInfo nodeInfo : nodeInfoList) {
             boolean success = nodeInfo.performAction(AccessibilityNodeInfo.ACTION_CLICK);
+            needWaitForDialog = false;
             if (nodeInfo.getText().equals("安装")) {
                 needWaitForDialog = true;
                 log("点击了安装");

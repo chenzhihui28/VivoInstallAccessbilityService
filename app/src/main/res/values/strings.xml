@@ -1,14 +1,15 @@
 <resources>
-<string name="app_name">VivoInstallAccessbilityService</string>
-<string name="service_desc">vivo自动安装服务</string>
-<string name="open_accessbility_service">打开无障碍服务</string>
-<string name="hint_vivo_password">请输入vivo账号的密码</string>
-<string name="defaul_vivo_password">默认密码是:chenzhihui123</string>
-<string name="current_vivo_password">当前密码是:%s</string>
-<string name="attention">注意</string>
-<string name="please_open_service">请先打开无障碍服务</string>
-<string name="open_settings">去打开</string>
-<string name="cancel">不了不了</string>
+    <string name="app_name">VivoInstallAccessbilityService</string>
+    <string name="service_desc">vivo自动安装服务</string>
+    <string name="open_accessbility_service">打开无障碍服务</string>
+    <string name="hint_vivo_password">请输入vivo账号的密码</string>
+    <string name="defaul_vivo_password">默认密码是:chenzhihui193</string>
+    <string name="current_vivo_password">当前密码是:%s</string>
+    <string name="attention">注意</string>
+    <string name="please_open_service">请先打开无障碍服务</string>
+    <string name="open_settings">去打开</string>
+    <string name="cancel">不了不了</string>
     <string name="save">保存</string>
     <string name="pwd_cannot_be_empty">密码不能为空</string>
+    <string name="background_tips">在安装应用时使用无障碍服务自动输入密码以及自动点击后续的安装步骤</string>
 </resources>
